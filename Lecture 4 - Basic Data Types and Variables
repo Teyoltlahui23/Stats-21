@@ -2,3 +2,17 @@ Should say Pythn 3.12
 Getting environment set up, go to office hours
 type(“2”)
 type(2)
+Math operations
+  X + y
+    10.0 + 5 will be 15.0
+    So will be float
+  X * y
+  X - y
+  X / y division
+    Will be a float
+  Z = x/y
+    type (z)
+      Float because 2.0
+  X // y integer floor divisio
+    10 // 3 will give you floor of 3 (give 3)
+  X /%/ y modulus
